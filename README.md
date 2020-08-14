@@ -7,8 +7,8 @@ For this project, stack overflow survey data from 2017 was analyzed to better un
 3.  What are the job benefits most important to survey respondants and does this vary by gender?
 
 ## Libraries used
-### numpy
-### pandas
+**numpy**
+**pandas**
 
 ## Files
 survey-results-public.csv    - Stack overflow survey results from 2017
