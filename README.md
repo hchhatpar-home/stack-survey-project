@@ -16,8 +16,8 @@ survey-results-schema.csv    - Survey questions asked
 stack-survey-results.ipynb   - jupyter notebook for analyzing data
 
 ## Conclusions
-1. Javascipt is the most used programming language for both professional and non-professional developers, and there is no significant diffference between the languages used by professional and non-professional developers.
+1. Javascipt is the most used programming language for both professional and non-professional developers, and there is no significant difference between the languages used by professional and non-professional developers.
 
-2. Job satifaction for men was highest when working from home most of the time. However, job satisfaction for women working home most of the time ranked in the bottom half of those surveyed.
+2. Job satisfaction for men was highest when working from home most of the time. However, job satisfaction for women working from home most of the time ranked in the bottom half of those surveyed.
 
 3. Vacation, Remote Options, and Health Benfefits were the most important benefits regardless of gender.
